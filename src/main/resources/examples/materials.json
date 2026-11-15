@@ -1,0 +1,86 @@
+[
+  {
+    "id": "PLA",
+    "properties": {
+      "name": "PLA",
+      "nozzleMin": 190,
+      "nozzleMax": 220,
+      "bedMin": 0,
+      "bedMax": 60,
+      "dryingTemperature": 45,
+      "dryingDuration": 4,
+      "density": 1.24,
+      "lossRate": 0.05
+    }
+  },
+  {
+    "id": "PETG",
+    "properties": {
+      "name": "PETG",
+      "nozzleMin": 220,
+      "nozzleMax": 250,
+      "bedMin": 60,
+      "bedMax": 85,
+      "dryingTemperature": 65,
+      "dryingDuration": 6,
+      "density": 1.27,
+      "lossRate": 0.06
+    }
+  },
+  {
+    "id": "TPU",
+    "properties": {
+      "name": "TPU",
+      "nozzleMin": 210,
+      "nozzleMax": 240,
+      "bedMin": 30,
+      "bedMax": 60,
+      "dryingTemperature": 50,
+      "dryingDuration": 6,
+      "density": 1.21,
+      "lossRate": 0.08
+    }
+  },
+  {
+    "id": "ABS",
+    "properties": {
+      "name": "ABS",
+      "nozzleMin": 230,
+      "nozzleMax": 260,
+      "bedMin": 90,
+      "bedMax": 110,
+      "dryingTemperature": 70,
+      "dryingDuration": 4,
+      "density": 1.04,
+      "lossRate": 0.08
+    }
+  },
+  {
+    "id": "ASA",
+    "properties": {
+      "name": "ASA",
+      "nozzleMin": 240,
+      "nozzleMax": 270,
+      "bedMin": 90,
+      "bedMax": 110,
+      "dryingTemperature": 75,
+      "dryingDuration": 4,
+      "density": 1.07,
+      "lossRate": 0.08
+    }
+  },
+  {
+    "id": "PC",
+    "properties": {
+      "name": "PC",
+      "nozzleMin": 260,
+      "nozzleMax": 300,
+      "bedMin": 100,
+      "bedMax": 120,
+      "dryingTemperature": 80,
+      "dryingDuration": 8,
+      "density": 1.2,
+      "lossRate": 0.1
+    }
+  }
+]

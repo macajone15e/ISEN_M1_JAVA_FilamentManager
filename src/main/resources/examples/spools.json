@@ -1,0 +1,28 @@
+[
+  {
+    "id": "B001",
+    "materialId": "PLA",
+    "brand": "Exemple",
+    "color": "Bleu",
+    "range": "Standard",
+    "initialWeight": 1000,
+    "remainingWeight": 800,
+    "diameter": 1.75,
+    "price": 20.0,
+    "purchaseDate": "2024-01-10",
+    "lastDrying": null
+  },
+  {
+    "id": "B002",
+    "materialId": "PETG",
+    "brand": "Exemple",
+    "color": "Noir",
+    "range": "",
+    "initialWeight": 1000,
+    "remainingWeight": 90,
+    "diameter": 1.75,
+    "price": 24.9,
+    "purchaseDate": "2024-02-01",
+    "lastDrying": null
+  }
+]

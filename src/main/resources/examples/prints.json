@@ -1,0 +1,15 @@
+[
+  {
+    "id": "P001",
+    "parameters": {
+      "name": "Support de démonstration",
+      "materialId": "PLA",
+      "diameter": 1.75,
+      "slicerWeight": 50,
+      "nozzleTemperature": 205,
+      "bedTemperature": 55
+    },
+    "status": "PLANNED",
+    "report": null
+  }
+]

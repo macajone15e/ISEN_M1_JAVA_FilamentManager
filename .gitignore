@@ -1,0 +1,91 @@
+# Compilation Java et fichiers générés par Maven
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+*.log
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+# Conserver tous les fichiers du Maven Wrapper, y compris son JAR.
+!.mvn/wrapper/maven-wrapper.jar
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Eclipse / Spring Tool Suite
+.classpath
+.project
+.settings/
+.factorypath
+.apt_generated/
+.apt_generated_tests/
+.sts4-cache/
+bin/
+
+# Visual Studio Code et NetBeans
+.vscode/
+nbproject/private/
+nbbuild/
+nbdist/
+.nb-gradle/
+
+# Fichiers du système et des éditeurs
+.DS_Store
+._*
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*~
+*.swp
+*.swo
+*.tmp
+*.temp
+*.bak
+*.orig
+*.rej
+
+# Journaux et diagnostics de la JVM
+logs/
+hs_err_pid*
+replay_pid*
+*.hprof
+*.jfr
+
+# Secrets et configuration locale
+.env
+.env.*
+!.env.example
+!.env.sample
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.keystore
+
+# Données utilisateur (également dans un dossier de sauvegarde personnalisé)
+/data/
+materials.json
+spools.json
+prints.json
+configuration.json
+.backup/
+.transaction
+.generation-*/
+# Les exemples livrés avec l'application restent versionnés.
+!/src/main/resources/examples/*.json
+
+# Cache local d'analyse du code
+/.sem/
